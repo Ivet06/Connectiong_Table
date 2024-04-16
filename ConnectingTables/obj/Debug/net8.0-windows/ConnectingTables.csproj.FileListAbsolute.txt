@@ -29,3 +29,4 @@ C:\Ivet11d\TreesZaimov\ConnectingTables\obj\Debug\net8.0-windows\refint\Connecti
 C:\Ivet11d\TreesZaimov\ConnectingTables\obj\Debug\net8.0-windows\ConnectingTables.pdb
 C:\Ivet11d\TreesZaimov\ConnectingTables\obj\Debug\net8.0-windows\ConnectingTables.genruntimeconfig.cache
 C:\Ivet11d\TreesZaimov\ConnectingTables\obj\Debug\net8.0-windows\ref\ConnectingTables.dll
+C:\Ivet11d\TreesZaimov\ConnectingTables\obj\Debug\net8.0-windows\ConnectingTables.sourcelink.json

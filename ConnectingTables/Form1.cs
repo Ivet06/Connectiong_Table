@@ -1,4 +1,7 @@
 using MySql.Data.MySqlClient;
+using Mysqlx.Crud;
+using System;
+using System.Xml.Linq;
 
 namespace ConnectingTables
 {
@@ -14,17 +17,28 @@ namespace ConnectingTables
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+
+        private void btn_Click(object sender, EventArgs e)
         {
+            string insertSQL = "INSERT INTO trees_zaimov.rod " +
+               "(`name`,`name_bg` ) " +
+               "VALUES (@name,@name_bg)";
+
 
             MySqlConnection connect = new MySqlConnection(connecting);
             if (connect.State == 0)
             {
                 connect.Open();
             }
-            MessageBox.Show("Connection now open");
-        }
 
-        
+            MySqlCommand query = new MySqlCommand(insertSQL, connect);
+
+            query.Parameters.AddWithValue("@name", txtName.Text);
+            query.Parameters.AddWithValue("@name_bg", txtNameBg.Text);
+
+            query.ExecuteNonQuery();
+            MessageBox.Show("Add in a table Rod");
+            connect.Close();
+        }
     }
 }

@@ -31,8 +31,8 @@
             lblName = new Label();
             lblNameBg = new Label();
             btn = new Button();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
+            txtName = new TextBox();
+            txtNameBg = new TextBox();
             lblZaglavie = new Label();
             SuspendLayout();
             // 
@@ -65,20 +65,21 @@
             btn.TabIndex = 2;
             btn.Text = "Insert Into rod";
             btn.UseVisualStyleBackColor = true;
+            btn.Click += btn_Click;
             // 
-            // textBox1
+            // txtName
             // 
-            textBox1.Location = new Point(43, 148);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(146, 23);
-            textBox1.TabIndex = 3;
+            txtName.Location = new Point(43, 148);
+            txtName.Name = "txtName";
+            txtName.Size = new Size(146, 23);
+            txtName.TabIndex = 3;
             // 
-            // textBox2
+            // txtNameBg
             // 
-            textBox2.Location = new Point(228, 148);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(146, 23);
-            textBox2.TabIndex = 4;
+            txtNameBg.Location = new Point(228, 148);
+            txtNameBg.Name = "txtNameBg";
+            txtNameBg.Size = new Size(146, 23);
+            txtNameBg.TabIndex = 4;
             // 
             // lblZaglavie
             // 
@@ -96,14 +97,13 @@
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(412, 405);
             Controls.Add(lblZaglavie);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(txtNameBg);
+            Controls.Add(txtName);
             Controls.Add(btn);
             Controls.Add(lblNameBg);
             Controls.Add(lblName);
             Name = "Form1";
             Text = "ConnectingTable";
-            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -113,8 +113,8 @@
         private Label lblName;
         private Label lblNameBg;
         private Button btn;
-        private TextBox textBox1;
-        private TextBox textBox2;
+        private TextBox txtName;
+        private TextBox txtNameBg;
         private Label lblZaglavie;
     }
 }
