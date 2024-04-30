@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Ivet11d\\TreesZaimov\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DADF772A-5582-4DF2-B7FE-7465FAB1A31C}|Trees\\Trees.csproj|c:\\ivet11d\\treeszaimov\\trees\\combobox_items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADF772A-5582-4DF2-B7FE-7465FAB1A31C}|Trees\\Trees.csproj|solutionrelative:trees\\combobox_items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADF772A-5582-4DF2-B7FE-7465FAB1A31C}|Trees\\Trees.csproj|C:\\Ivet11d\\TreesZaimov\\trees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADF772A-5582-4DF2-B7FE-7465FAB1A31C}|Trees\\Trees.csproj|solutionrelative:trees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DADF772A-5582-4DF2-B7FE-7465FAB1A31C}|Trees\\Trees.csproj|C:\\Ivet11d\\TreesZaimov\\trees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DADF772A-5582-4DF2-B7FE-7465FAB1A31C}|Trees\\Trees.csproj|solutionrelative:trees\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42366558-8075-41E5-BBCE-8AEEBD36D14E}|ConnectingTables\\ConnectingTables.csproj|C:\\Ivet11d\\TreesZaimov\\connectingtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42366558-8075-41E5-BBCE-8AEEBD36D14E}|ConnectingTables\\ConnectingTables.csproj|solutionrelative:connectingtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{42366558-8075-41E5-BBCE-8AEEBD36D14E}|ConnectingTables\\ConnectingTables.csproj|C:\\Ivet11d\\TreesZaimov\\connectingtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{42366558-8075-41E5-BBCE-8AEEBD36D14E}|ConnectingTables\\ConnectingTables.csproj|solutionrelative:connectingtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42366558-8075-41E5-BBCE-8AEEBD36D14E}|ConnectingTables\\ConnectingTables.csproj|c:\\ivet11d\\treeszaimov\\connectingtables\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42366558-8075-41E5-BBCE-8AEEBD36D14E}|ConnectingTables\\ConnectingTables.csproj|solutionrelative:connectingtables\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42366558-8075-41E5-BBCE-8AEEBD36D14E}|ConnectingTables\\ConnectingTables.csproj|c:\\ivet11d\\treeszaimov\\connectingtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{42366558-8075-41E5-BBCE-8AEEBD36D14E}|ConnectingTables\\ConnectingTables.csproj|solutionrelative:connectingtables\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{DADF772A-5582-4DF2-B7FE-7465FAB1A31C}|Trees\\Trees.csproj|C:\\Ivet11d\\TreesZaimov\\trees\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DADF772A-5582-4DF2-B7FE-7465FAB1A31C}|Trees\\Trees.csproj|solutionrelative:trees\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,49 +34,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Ivet11d\\TreesZaimov\\Trees\\Form1.cs",
+              "RelativeDocumentMoniker": "Trees\\Form1.cs",
+              "ToolTip": "C:\\Ivet11d\\TreesZaimov\\Trees\\Form1.cs",
+              "RelativeToolTip": "Trees\\Form1.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAA9wKYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:30:22.953Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Ivet11d\\TreesZaimov\\Trees\\Form1.cs",
+              "RelativeDocumentMoniker": "Trees\\Form1.cs",
+              "ToolTip": "C:\\Ivet11d\\TreesZaimov\\Trees\\Form1.cs [Design]",
+              "RelativeToolTip": "Trees\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:12:10.336Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComboBox_Items.cs",
+              "DocumentMoniker": "C:\\Ivet11d\\TreesZaimov\\Trees\\ComboBox_Items.cs",
+              "RelativeDocumentMoniker": "Trees\\ComboBox_Items.cs",
+              "ToolTip": "C:\\Ivet11d\\TreesZaimov\\Trees\\ComboBox_Items.cs",
+              "RelativeToolTip": "Trees\\ComboBox_Items.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T08:18:28.467Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Ivet11d\\TreesZaimov\\Trees\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Trees\\Form1.Designer.cs",
+              "ToolTip": "C:\\Ivet11d\\TreesZaimov\\Trees\\Form1.Designer.cs",
+              "RelativeToolTip": "Trees\\Form1.Designer.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAASwOsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:30:35.154Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Ivet11d\\TreesZaimov\\ConnectingTables\\Form1.cs",
+              "RelativeDocumentMoniker": "ConnectingTables\\Form1.cs",
+              "ToolTip": "C:\\Ivet11d\\TreesZaimov\\ConnectingTables\\Form1.cs",
+              "RelativeToolTip": "ConnectingTables\\Form1.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:55:06.536Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Ivet11d\\TreesZaimov\\ConnectingTables\\Form1.cs",
               "RelativeDocumentMoniker": "ConnectingTables\\Form1.cs",
               "ToolTip": "C:\\Ivet11d\\TreesZaimov\\ConnectingTables\\Form1.cs [Design]",
               "RelativeToolTip": "ConnectingTables\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T09:31:29.652Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-23T07:56:15.677Z",
+              "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Ivet11d\\TreesZaimov\\ConnectingTables\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "ConnectingTables\\Form1.Designer.cs",
-              "ToolTip": "C:\\Ivet11d\\TreesZaimov\\ConnectingTables\\Form1.Designer.cs",
-              "RelativeToolTip": "ConnectingTables\\Form1.Designer.cs",
-              "ViewState": "AQIAAFoAAAAAAAAAAAASwGkAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T09:31:01.337Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Ivet11d\\TreesZaimov\\ConnectingTables\\Form1.cs",
-              "RelativeDocumentMoniker": "ConnectingTables\\Form1.cs",
-              "ToolTip": "C:\\Ivet11d\\TreesZaimov\\ConnectingTables\\Form1.cs",
-              "RelativeToolTip": "ConnectingTables\\Form1.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAkwBIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T07:19:57.434Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             }
           ]
         }

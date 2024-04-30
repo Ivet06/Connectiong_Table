@@ -40,5 +40,7 @@ namespace ConnectingTables
             MessageBox.Show("Add in a table Rod");
             connect.Close();
         }
+
+        
     }
 }

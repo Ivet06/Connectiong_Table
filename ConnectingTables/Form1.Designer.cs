@@ -58,13 +58,14 @@
             // 
             // btn
             // 
+            btn.BackColor = SystemColors.ButtonHighlight;
             btn.Font = new Font("Lucida Calligraphy", 15.75F, FontStyle.Regular, GraphicsUnit.Point, 0);
             btn.Location = new Point(78, 257);
             btn.Name = "btn";
             btn.Size = new Size(242, 72);
             btn.TabIndex = 2;
             btn.Text = "Insert Into rod";
-            btn.UseVisualStyleBackColor = true;
+            btn.UseVisualStyleBackColor = false;
             btn.Click += btn_Click;
             // 
             // txtName
@@ -95,6 +96,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
+            BackColor = Color.Honeydew;
             ClientSize = new Size(412, 405);
             Controls.Add(lblZaglavie);
             Controls.Add(txtNameBg);
@@ -104,6 +106,7 @@
             Controls.Add(lblName);
             Name = "Form1";
             Text = "ConnectingTable";
+
             ResumeLayout(false);
             PerformLayout();
         }
